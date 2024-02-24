@@ -1,6 +1,6 @@
-name: PopopzLearn1
+name: Hexnter
 version: '${project.version}'
-main: popopz.popopzlearn1.PopopzLearn1
+main: com.budgienet.hexnter.Hexnter
 api-version: 1.20
-authors: [ Popopz ]
-description: How to plugin
+authors: [ Popopz, Eroserv ]
+description: Removes the display name of non-custom hex items.
